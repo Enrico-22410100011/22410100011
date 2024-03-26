@@ -15,8 +15,8 @@
     <input type="Text" id="Beli" name="beli"><br>
     <label for="Jual">Jual:</label><br>
     <input type="Text" id="Jual" name="jual"><br>
-    <input type="submit" value="Save" name="save">
-    <input type="submit" value="Cancel" name="cancel">
+    <button> Save </button></a>
+    <button> Cancel </button></a>
 </form>
 </body>
 </html>

@@ -3,8 +3,7 @@
 <head>
 <title>Tugas 1</title>
 </head>
-<form action="Tugas11.php" method="POST">
-<input type="submit" value="+" name="+">
+<a href="Tugas11.php" target="_self"><button>+</button></a><br>
 </form>
 <table border="1">
   <tr>
@@ -24,9 +23,7 @@
     <td>pcs</td>
     <td>200</td>
     <td>350</td>
-    <td> 
-    <a href="Tugas12.php" target="_blank">
-        <input type="submit" value="Update" name="update">
+    <td> <a href="Tugas12.php" target="_self"><button> Update </button></a><br>
     </td>
   </tr>
   <tr>
@@ -35,9 +32,7 @@
     <td>pcs</td>
     <td>300</td>
     <td>450</td>
-    <td>
-    <a href="Tugas12.php" target="_blank">
-        <input type="submit" value="Update" name="update"> 
+    <td> <a href="Tugas12.php" target="_self"><button> Update </button></a><br>
     </td>
   </tr>
   <tr>
@@ -46,9 +41,7 @@
     <td>pcs</td>
     <td>400</td>
     <td>550</td>
-    <td>
-    <a href="Tugas12.php" target="_blank">
-    <input type="submit" value="Update" name="update"> 
+    <td> <a href="Tugas12.php" target="_self"><button> Update </button></a><br> 
     </td>
   </tr>
 </table>
