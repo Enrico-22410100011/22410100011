@@ -1,0 +1,36 @@
+button {
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+  #Kode, #Nama, #Satuan, #Beli, #Jual
+  {
+    border-radius: 5px; 
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+
+  table
+  {
+    border-collapse: collapse;
+  }
+
+  th
+  {
+    padding: 15px;
+    text-align: center;
+  }
+
+  td
+  {
+    padding: 15px;
+    text-align: left;
+  }

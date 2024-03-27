@@ -3,7 +3,9 @@
 <head>
 <title>Tugas 1</title>
 </head>
-<a href="Tugas11.php" target="_self"><button>+</button></a><br>
+<link rel="stylesheet" href="mycss.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<a href="Tugas11.php" target="_self"><button><i class="fa fa-plus"></i></button></a><br>
 </form>
 <table border="1">
   <tr>
@@ -23,7 +25,7 @@
     <td>pcs</td>
     <td>200</td>
     <td>350</td>
-    <td> <a href="Tugas12.php" target="_self"><button> Update </button></a><br>
+    <td> <a href="Tugas12.php" target="_self"><button><i class="fa fa-edit"></i> Edit </button></a><br>
     </td>
   </tr>
   <tr>
@@ -32,7 +34,7 @@
     <td>pcs</td>
     <td>300</td>
     <td>450</td>
-    <td> <a href="Tugas12.php" target="_self"><button> Update </button></a><br>
+    <td> <a href="Tugas12.php" target="_self"><button><i class="fa fa-edit"></i> Edit </button></a><br>
     </td>
   </tr>
   <tr>
@@ -41,7 +43,7 @@
     <td>pcs</td>
     <td>400</td>
     <td>550</td>
-    <td> <a href="Tugas12.php" target="_self"><button> Update </button></a><br> 
+    <td> <a href="Tugas12.php" target="_self"><button><i class="fa fa-edit"></i> Edit </button></a><br> 
     </td>
   </tr>
 </table>
